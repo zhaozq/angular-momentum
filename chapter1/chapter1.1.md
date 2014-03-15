@@ -25,3 +25,4 @@
 <p>对易的概念很重要，因此基于角动量分量的对易性，可以由此定义一个广义的角动量算符。</p>
 <p><em>Eq(1.8):</em> <img style="vertical-align:middle" src="http://chart.apis.google.com/chart?cht=tx&amp;chl=%5Bj_x%2Cj_y%5D%20%3D%20ij_z%2C%20%5Bj_y%2Cj_z%5D%20%3D%20ij_x%2C%20%5Bj_z%2Cj_x%5D%20%3D%20ij_y" alt="[j_x,j_y] = ij_z, [j_y,j_z] = ij_x, [j_z,j_x] = ij_y" title="[j_x,j_y] = ij_z, [j_y,j_z] = ij_x, [j_z,j_x] = ij_y" /></p>
 <p>这是和公式(1.7)相对应的。这样一个拓展定义，带来意外的好处。在下一部分将会提到，这个定义描 述了自旋的性质，自旋是一个没有经典对应的物理量。这里还是用<img style="vertical-align:middle" src="http://chart.apis.google.com/chart?cht=tx&amp;chl=%5Cmathcal%7Bl%7D" alt="\mathcal{l}" title="\mathcal{l}" />表示轨道角动量，用 <img style="vertical-align:middle" src="http://chart.apis.google.com/chart?cht=tx&amp;chl=%5Cmathcal%7Bj%7D" alt="\mathcal{j}" title="\mathcal{j}" />表示广义角动量。</p>
+<p><a href="./chapter-1.2.md">1.2节 本征值和角动量的矩阵表示</a></p>
